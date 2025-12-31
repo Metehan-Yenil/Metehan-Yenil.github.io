@@ -1,0 +1,20 @@
+{
+  "minimumVersion": "1.0.5",
+  "minimumVersionCode": 5,
+  "updateUrl": "hhttps://play.google.com/store/apps/details?id=com.taskly.todo.taskly_anasayfa",
+  "title": {
+    "en": "Update available",
+    "tr": "Güncelleme mevcut"
+  },
+  "message": {
+    "en": "A new version is available. Please update to continue.",
+    "tr": "Yeni bir sürüm mevcut. Devam etmek için lütfen güncelleyin."
+  },
+  "releaseNotes": {
+    "en": "Bug fixes and improvements.",
+    "tr": "Hata düzeltmeleri ve iyileştirmeler."
+  },
+  "force": true,
+  "publishDate": "2025-12-31T00:00:00Z"
+}
+
