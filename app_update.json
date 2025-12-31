@@ -1,7 +1,7 @@
 {
   "minimumVersion": "1.0.5",
   "minimumVersionCode": 5,
-  "updateUrl": "hhttps://play.google.com/store/apps/details?id=com.taskly.todo.taskly_anasayfa",
+  "updateUrl": "https://play.google.com/store/apps/details?id=com.taskly.todo.taskly_anasayfa",
   "title": {
     "en": "Update available",
     "tr": "Güncelleme mevcut"
